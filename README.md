@@ -41,7 +41,7 @@ PostgreSQL database (if running backend locally)
 **Installation**
 
 **Clone the repository:**
-git clone https://github.com/YOUR_USERNAME/automated-weather-dashboard.git
+git clone https://github.com/Fatimshaikh/automated_data_pipeline.git
 cd automated-weather-dashboard
 
 
